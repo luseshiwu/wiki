@@ -130,7 +130,7 @@ window.getTemplate = function(name) {
 	 * id: node id
 	 * level: depth needed for indention
 	 * trail: list of ids to avoid loops
-	 * resolve: resolve block references and embeds starting with an exclamation mark: !{{{embed ((1fb1195e-36a8-4f58-aa8c-c755c65fd828))}}} and !((1fb1195e-36a8-4f58-aa8c-c755c65fd828))
+	 * resolve: resolve block references and embeds starting with an exclamation mark: !{{{embed ((c86e5356-09e3-44d9-8e5a-4b60ea0558e7))}}} and !((c86e5356-09e3-44d9-8e5a-4b60ea0558e7))
 	 * skipFirstPrefix: no prefix, needed for block embeds and references
 	 * stop: doesn't resolve children, needed for block reference resolution
 	 */
